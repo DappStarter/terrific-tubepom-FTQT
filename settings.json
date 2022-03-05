@@ -1,0 +1,21 @@
+{
+    "name": "The Burn Book",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/collection/core-entity": true,
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "single",
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "none",
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Burn",
+        "/category/asset_value_tracking/core-token/symbol": "BBK",
+        "/category/asset_value_tracking/core-token/decimals": "9",
+        "/category/asset_value_tracking/core-token/supply": "150000",
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true
+    }
+}
